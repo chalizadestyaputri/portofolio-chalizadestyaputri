@@ -1,6 +1,6 @@
 # Portofolio Chaliza Destya Putri
 
-Portofolio yang berisi profil, pendidikan, keterampilan, pengalaman, proyek, sertifikat, dan hasil karya yang telah dibuat selama menempuh pendidikan di bidang Sistem Informasi.
+Portofolio ini berisi profil, pendidikan, keterampilan, pengalaman, proyek yang telah dibuat, serta sertifikat yang telah diperoleh.
 
 ## Link Portofolio
 https://portofolio-chalizadestya.my.canva.site/
